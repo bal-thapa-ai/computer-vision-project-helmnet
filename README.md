@@ -53,5 +53,3 @@ Workplace safety in hazardous environments requires strict compliance with prote
 5. **Retrain Periodically** with field data to maintain long-term accuracy  
 6. **Upgrade to Multi-Class Classification** (Helmet On / Helmet Off / No Helmet)  
 
-   git clone https://github.com/your-username/HelmNet.git
-   cd HelmNet
